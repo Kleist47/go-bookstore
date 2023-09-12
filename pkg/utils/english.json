@@ -1,0 +1,20 @@
+{
+  "de_DE": {
+    "navbar": {
+      "title": "Titel",
+      "home": "Startseite"
+    }
+  },
+  "en_US": {
+    "navbar": {
+      "title": "Title",
+      "home": "Homepage"
+    }
+  },
+  "pl_PL": {
+    "navbar": {
+      "title": "Tytuł",
+      "home": "Strona główna"
+    }
+  }
+}
